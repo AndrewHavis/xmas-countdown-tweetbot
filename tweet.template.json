@@ -1,0 +1,7 @@
+{
+  "templates": {
+    "normal": "There are nnn days until #Christmas! \uD83C\uDF84\uD83C\uDF85☃️\uD83E\uDD8C #ChristmasCountdown #Xmas #XmasCountdown",
+    "xmas_eve": "It's #ChristmasEve! There is only one more sleep until #Christmas! \uD83C\uDF84\uD83C\uDF85☃️\uD83E\uDD8C #ChristmasCountdown #Xmas #XmasCountdown",
+    "xmas_day": "It's #ChristmasDay! Merry #Christmas everyone! \uD83C\uDF84\uD83C\uDF85☃️\uD83E\uDD8C #ChristmasCountdown #Xmas #XmasCountdown"
+  }
+}
